@@ -1,8 +1,8 @@
 # Site settings
-title_left    : "Johnmmm"
-title_right   : "" # default: ""
+title_left    : "Johnmmm's"
+title_right   : " Page" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, recordplace"
 url           : https://johnmmm.github.io/recordplace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
